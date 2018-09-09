@@ -1,0 +1,9 @@
+name: SpriteKitDemo
+options:
+  bundleIdPrefix: com.example
+targets:
+  SpriteKitDemo:
+    type: application
+    platform: iOS
+    deploymentTarget: "11.0"
+    sources: [SpriteKitDemo]
